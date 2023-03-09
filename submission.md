@@ -1,4 +1,4 @@
-Instructions for use, describing how a user would interact with your program.
+How the user will interact with the program:
 
 - The user will interact with the program through the Index and Query files.
 - Before searching, the user needs to run Index to allow the Query file to function. How the user sets up the Index is by
